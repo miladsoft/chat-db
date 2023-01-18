@@ -19,7 +19,7 @@
   ],
   "chats": [
     {
-      "id": 1,
+      "id": 0,
       "targetUserId": 0,
       "username" : "Blockcore Channel",
       "cover": "https://avatars.githubusercontent.com/u/53176002",
@@ -27,12 +27,12 @@
       "lastMessageLength": 0,
       "chat": [
         {
-          "id": "2",
+          "id": "1",
           "cover": "https://avatars.githubusercontent.com/u/6504337",
           "message": "Hi"
         },
         {
-          "id": "2",
+          "id": "1",
           "cover": "https://avatars.githubusercontent.com/u/6504337",
           "message": "How are you?"
         },
@@ -41,14 +41,14 @@
           "cover": "https://avatars.githubusercontent.com/u/6504337",
           "message": "Hi, I am good, you?"
         },{
-          "id": "2",
+          "id": "1",
           "cover": "https://avatars.githubusercontent.com/u/6504337",
           "message": "Thank you."
         }
       ]
     },
     {
-      "id": 2,
+      "id": 1,
       "targetUserId": 0,
       "username" : "Milad",
       "cover": "https://avatars.githubusercontent.com/u/6504337",
@@ -68,7 +68,7 @@
       ]
     },
     {
-      "id": 3,
+      "id": 2,
       "targetUserId": 1,
       "username" : "SondreB",
       "cover": "https://avatars.githubusercontent.com/u/309938",
@@ -76,7 +76,7 @@
       "lastMessageLength": 0,
       "chat": [
         {
-          "id": "7",
+          "id": "0",
           "cover": "https://avatars.githubusercontent.com/u/309938",
           "message": "Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc."
         },
@@ -95,15 +95,15 @@
   ],
   "saveMessage": {
     "id": 0,
-    "chatId": 3,
+    "chatId": 2,
     "cover": "https://avatars.githubusercontent.com/u/53176002",
     "message": "Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc."
   },
   "createChat": {
-    "id": 100,
+    "id": 0,
     "targetUserId": 1,
     "username" : "Milad",
-    "cover": "https://avatars.githubusercontent.com/u/53176002",
+    "cover": "https://avatars.githubusercontent.com/u/6504337",
     "lastMessage": "",
     "lastMessageLength": 0,
     "chat": []
